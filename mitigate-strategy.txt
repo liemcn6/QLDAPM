@@ -1,0 +1,15 @@
+Escalate: project team/sponsor đồng ý rằng risk vượt ra ngoài phạm vi của dự án hoặc
+vượt quá thẩm quyền của PM -> Chuyển lên cho thằng khác giải quyết, méo cần qtam
+
+Avoid: project team hành động để loại bỏ/bảo vệ project khỏi tác động của risk
+Dùng cho các risk có xs xảy ra cao và tác động xấu lớn tới project
+(loại bỏ hoàn toàn risk)
+
+Transfer: Chuyển việc quản lý risk cho bên thứ 3 (mình không làm được thì cho thằng
+khác làm là được)(nhưng mất tiền :( )
+
+Mitigate: Giảm nhẹ xs xảy ra và tác động của risk. (Áp dụng các quy trình ít phức tạp
+, tiến hành test thường xuyên, )
+
+Accept: dành cho risk có mức ưu tiên thấp. Kệ cm cuộc đời, bố chịu. Nôn sẵn tiền và
+thời gian trước cho đỡ mệt, nghĩ làm gì?
